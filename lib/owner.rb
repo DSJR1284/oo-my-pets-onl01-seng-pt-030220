@@ -65,9 +65,7 @@ class Owner
     end
 
     def list_pets
-    #   pets = (self.dogs) + (self.cats)
-    #   pets.sort{|pet| pet}
-    #
+      puts "I have #{self.dogs} dog(s), and #{self.cats} cat(s)."
     end
 
 end
