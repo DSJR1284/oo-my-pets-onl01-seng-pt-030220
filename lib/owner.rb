@@ -68,6 +68,6 @@ class Owner
       puts "I have #{dogs.all} dog(s), and #{cats.all}. cat(s)."
         binding.pry
     end
-    
-  
+
+
 end
