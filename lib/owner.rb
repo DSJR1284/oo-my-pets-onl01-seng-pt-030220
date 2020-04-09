@@ -67,7 +67,7 @@ class Owner
     def list_pets
       pets = (self.dogs) + (self.cats)
       pets.sort{|pet| pet}
-      binding.pry
+
     end
 
 end
